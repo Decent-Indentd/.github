@@ -34,6 +34,16 @@ the inspiration behind decent identd actually came from the idea of decentralizi
   Background
 </h1>
 
+<details>
+  <summary>
+    Some Background on the background of the project :)
+  </summary>
+  austin has been working on a similar thing for a while, a protocol that will use decent-identd as it backbone. a protocol that will make up the majority of web3 as it is tomorrow. it is being designed to be used for things like git, live chat, advanced pubsub, and more. as well as a DiDP and DSSO solution, two things that are not currenlty possible on the web3 that we know and try to use today.
+</details>
+
+### What this project aims to do:
+
+There is a lot of potential is decentralizing the identity idea, in both the security and privacy respects of it, There are also drawbacks, but we will address all of those as we move forward.
 
 <br></br>
 
