@@ -52,7 +52,7 @@ There is a lot of potential is decentralizing the identity idea, in both the sec
         Project Update
     </h1>
 <p>
-    This project will be privately developed due to issues, more information can be found [here](https://awfixer.me/blog/why)
+    This project will be privately developed due to issues, more information can be found in this post https://awfixer.me/blog/why
 
 <div align="center"
 
