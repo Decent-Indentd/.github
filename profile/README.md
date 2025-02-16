@@ -47,8 +47,15 @@ There is a lot of potential is decentralizing the identity idea, in both the sec
 
 <br></br>
 
+<div align="center">
+    <h1>
+        Project Update
+    </h1>
+<p>
+    This project will be privately developed due to issues, more information can be found [here](https://awfixer.me/blog/why)
+
 <div align="center"
 
-made with ❤️ by <a href="https://awfixer.me">austin</a> and <a href="https://awfixer.dev">AWFixer Industries</a> in the USA
+made with ❤️ by <a href="https://awfixer.me">austin</a>  in the USA
 
 </div>
